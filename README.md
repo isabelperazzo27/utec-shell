@@ -1,1 +1,1 @@
-Repositorio para los retos de utec-shell
+Repositorio oficial para los retos de utec-shell
