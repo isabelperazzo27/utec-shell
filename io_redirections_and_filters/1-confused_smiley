@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "(Ôo)\'"
+printf "(%b" "\\xc3\\x94o)\\\'\n"
